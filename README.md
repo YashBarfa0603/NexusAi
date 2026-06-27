@@ -51,7 +51,7 @@ Clean chat interface with message bubbles, typing indicators, attachment support
 
 | Home Screen | Introduction | Chat |
 |:-----------:|:------------:|:----:|
-| <img src="assets/screenshots/home.png" width="200" alt="Home Screen"/> | <img src="assets/screenshots/intro.png" width="200" alt="Introduction"/> | <img src="https://github.com/YashBarfa0603/NexusAi/blob/990ebf1a89b54f510518d6805dc1442af3363136/Chat.png" width="200" alt="Chat"/> |
+| <img src="assets/screenshots/home.png" width="200" alt="Home Screen"/> | <img src="https://github.com/YashBarfa0603/NexusAi/blob/02f58b6320a168d7e378415396981d6471e614fc/Introduction.png" width="200" alt="Introduction"/> | <img src="https://github.com/YashBarfa0603/NexusAi/blob/990ebf1a89b54f510518d6805dc1442af3363136/Chat.png" width="200" alt="Chat"/> |
 | Empty state with prompt | AI introduces itself | Multi-turn conversation |
 
 </div>
