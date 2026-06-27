@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment & Secrets
+.env
+.env.*
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python cache, logs, and temp files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+.ipynb_checkpoints/
+*.bak
+*.tmp
