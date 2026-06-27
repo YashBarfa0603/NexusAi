@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/screenshots/home.png" width="120" alt="Nexus AI Logo"/>
-
 # 🤖 Nexus AI
 
 **A modern cross-platform AI assistant built with Flutter, FastAPI, and Google's Gemini API.**
