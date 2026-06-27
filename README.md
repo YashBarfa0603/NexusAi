@@ -54,7 +54,7 @@ Clean chat interface with message bubbles, typing indicators, attachment support
 
 </div>
 
-> **Note:** To add screenshots, place them in the `assets/screenshots/` folder and update the paths above.
+
 
 ---
 
